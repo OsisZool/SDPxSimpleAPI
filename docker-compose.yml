@@ -57,6 +57,8 @@ services:
 
 volumes:
   db-data:
+  db-test-data:
 
 networks:
   dev-network:
+  test-network:
